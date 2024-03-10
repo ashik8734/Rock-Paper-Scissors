@@ -3,7 +3,7 @@ let compScore=0;
 
 let userScorePara=document.querySelector("#user-score");
 let compScorePara=document.querySelector("#comp-score");
-
+ 
 const choices =document.querySelectorAll(".choice");
 let msg=document.querySelector("#msg");
 
